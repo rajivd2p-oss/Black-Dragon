@@ -1,0 +1,5 @@
+backend_data/
+*.db
+secrets.json
+.env
+__pycache__/
